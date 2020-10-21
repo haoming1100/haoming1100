@@ -1,4 +1,4 @@
-[![Focus Repo](https://github-readme-stats.vercel.app/api/pin/?username=haoming1100&show_owner=true)](https://github.com/haoming1100)
+![marionxue's github stats](https://github-readme-stats.vercel.app/api?username=haoming1100&theme=radical) 
 
 
 ### Hi there 👋
